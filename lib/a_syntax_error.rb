@@ -1,3 +1,3 @@
 x = 1
 
-x = 
+x = "A Giant Not so Jolly Giant"
