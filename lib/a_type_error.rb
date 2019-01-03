@@ -1,3 +1,7 @@
 1 + 1
 
-1 + "is the loneliest number"
+1 + 666
+
+2 + 1
+
+"Hell World"
